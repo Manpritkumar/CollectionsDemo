@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ffe2bc1-ef54-4c63-9357-91d5c62853e5" name="Changes" comment="collection -hash set">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ArrayListExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayListExamples.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ffe2bc1-ef54-4c63-9357-91d5c62853e5" name="Changes" comment="collection -hash map" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +48,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/KANU/IdeaProjects/CollectionsDemo/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "com.lilittlecat.chatgpt.setting.ChatGPTSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709891832331</updated>
       <workItem from="1709891833457" duration="13203000" />
-      <workItem from="1709974246049" duration="10564000" />
+      <workItem from="1709974246049" duration="10904000" />
     </task>
     <task id="LOCAL-00001" summary="collection -hash set">
       <option name="closed" value="true" />
@@ -82,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710058473862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="collection -hash map">
+      <option name="closed" value="true" />
+      <created>1710068763607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710068763607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="collection -hash set" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection -hash set" />
+    <MESSAGE value="collection -hash map" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection -hash map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
