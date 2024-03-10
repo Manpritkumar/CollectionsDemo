@@ -146,7 +146,7 @@ public class ArrayListExamples {
 
         ArrayList<Person> people =new ArrayList<>();
 
-        Person person1 = new Person(03,"John","Deo","Preet98728@gmail.com");
+        Person person1 = new Person(3,"John","Deo","Preet98728@gmail.com");
         Person person2 =new Person(1,"Agam","Athi","agamathi@gmail.com");
         Person person3 =new Person(2,"Kanu","Athi","Kanu@gmail.com");
 
